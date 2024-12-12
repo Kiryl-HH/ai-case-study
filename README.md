@@ -32,21 +32,70 @@ The company has raised $229.5 million in total known funding. That includes the 
 
 > Real-time Autonomous Response stops unknown threats with surgical precision, keeping the business fully operational while buying your SOC valuable time.
 
+### They currently use the following technologies
+
+* Self-Learning AI
+
+* Autonomous Response
+
+* Cyber AI Analyst
+
+* Integration with Emerging Technologies
+
 ## Landscape
 
-* What field is the company in?
+* Darktrace is a global leader in cybersecurity AI, delivering the essential cybersecurity platform to protect organizations today and for an ever-changing future.
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+### Top Cybersecurity Trends
 
-* What are the other major companies in this field?
+* Remote working cybersecurity risks.
+* The Internet of Things (IoT) evolving.
+* The rise of ransomware.
+* Increase in cloud services and cloud security threats.
+* Social engineering attacks getting smarter.
+* Data privacy as a discipline.
+* Multi-factor authentication improving.
+
+### The other major companies in this field
+
+-   [IBM Security QRadar](https://www.ibm.com/ai-cybersecurity?utm_content=SRCWW&p1=Search&p4=43700074604519950&p5=p&p9=58700008209812898&gclsrc=aw.ds&gbraid=0AAAAAD-_QsTGH69GfCt9SHRoaCMkFGtHH&gclid=CjwKCAiAjeW6BhBAEiwAdKltMrLJd326CMvgwXf-Cm3JsLsUdCjMqCOlxn23YOB-EQJ0MHC0HT0fbhoCvlwQAvD_BwE)
+-  [ExtraHop](https://www.extrahop.com/platform/revealx?utm_source=Google&utm_medium=CPC&utm_campaign=TNT-BrandedSearch-ExactMatch-NA&cid=7016R000001hfpBQAQ&utm_term=extrahop&utm_source=Google&utm_medium=CPC&utm_campaign=TNT-BrandedSearch-ExactMatch-NA&utm_id=7016R000001hfpBQAQ&utm_term=extrahop&gad_source=1&gbraid=0AAAAADuVKgUD2gMTS30EV0jOiszmoXfrm&gclid=CjwKCAiAjeW6BhBAEiwAdKltMg8nEESLGcQKds8u1SRL8mHZ6waqBvuWSBF0qWKP32dtQKfp3O6WQhoCAXcQAvD_BwE)
+-  [Vectra AI, Inc.](https://www.vectra.ai)
+-  [Check Point Software](https://www.checkpoint.com)
+-  [Trellix](https://www.trellix.com)
+-  [Armis Platform](https://www.armis.com)
+-  [Cortex XDR](https://docs-cortex.paloaltonetworks.com/home)
+-  [Cisco](https://www.cisco.com)
+-  [Datadog](https://www.datadoghq.com/dg/monitor/free-trial/?utm_source=google&utm_medium=paid-search&utm_campaign=dg-brand-ww&utm_keyword=datadog&utm_matchtype=b&igaag=95325237782&igaat=&igacm=9551169254&igacr=651959074277&igakw=datadog&igamt=b&igant=g&utm_campaignid=9551169254&utm_adgroupid=95325237782&gad_source=1&gbraid=0AAAAADFY9Nmx2gA1cgTOhjFoxQJdFa1Ud&gclid=CjwKCAiAjeW6BhBAEiwAdKltMjuK9N6QAg1_ebhThtVFN1_WBtMk5VobVtV-5FhB4w2R9lvdexORpxoCZpEQAvD_BwE)
+-  [Symantec Network Forensics](https://www.broadcom.com/products/advanced-threat-protection/network-forensics-security-analytics)
+-  [InsightIDR](https://www.rapid7.com/products/insightidr/)
+-  [Progress Software](https://www.progress.com)
+-  [Claroty](https://claroty.com)
+-  [Lumeta](https://www.firemon.com/newsroom/lumeta-is-now-cyber-asset-manager/)
 
 ## Results
 
-* What has been the business impact of this company so far?
+### Darktrace has a big impact on cybersecirity business:
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* Enhanced Cybersecurity Defense
+* Cowering Cybersecurity Costs
+* Versatility Across Various Industries
+* Scalability and Flexibility
 
-* How is your company performing relative to competitors in the same field?
+#### Recent Developments
+
+* Darktrace has recently announced that its Federal business has received a High Impact Level “In Process” designation from the Federal Risk and Authorization Management Program (FedRAMP), a U.S. government-wide program that provides a standardised approach to security assessment, authorisation, and continuous monitoring for cloud products and services. Darktrace Federal’s Cyber AI Mission Defense™ and Cyber AI Email Protection™ products are now listed in the FedRAMP Marketplace. This designation marks a critical milestone for Darktrace Federal as it seeks to deliver information technology (IT), operational technology (OT), Internet of Things (IoT), and email security to the U.S. federal government via cloud-native deployments, empowering agencies to combat threats ranging from stealthy insiders to zero-day attacks and supply chain compromises.
+
+### Darktrace's Performance
+
+1. As of June 30, 2023, Darktrace reported an ARR of $626.6 million, reflecting a 29.6% year-over-year increase.
+2. The company experienced an 18.3% year-over-year growth in its customer base, reaching 8,799 customers by the end of June 2023.
+3. Darktrace reported a gross margin of 89.2% for the fiscal year ending June 30, 2023, indicating strong profitability.
+4. Darktrace's Adjusted EBITDA Margin improved from 11.8% in FY 2021 to 25.5% in FY 2023, with a projected midpoint of 23.0% for FY 2024. This represents an 11.2 percentage point increase, reflecting significant operational efficiency and profitability growth as the company scales its AI-driven solutions.
+
+* Darktrace's Performance in comparison to competitors
+
+![alt text](https://i.postimg.cc/RVTvpT2k/temp-Image-Qty-R0f.avif)
 
 ## Recommendations
 
