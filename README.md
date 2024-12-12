@@ -8,7 +8,7 @@
 
 * Darktrace was founded in 2013 by Poppy Gustafsson, Dave Palmer, Emily Orton, Jack Stockdale and Nicole Eagan. The founders were leading a team of a world-class team of mathematicians from the University of Cambridge and AI experts, who were working on some ground-breaking applications of AI, experimenting with giving machines a sense of self.
 
-### Powered by ground-breaking Self-Learning AI, Darktrace empowers bespoke decurity unique to each customer based on continuous visibility into an organization’s entire digital ecosystem. 
+### Powered by groundbreaking Self-Learning AI, Darktrace empowers bespoke security unique to each customer based on continuous visibility into an organization’s entire digital ecosystem. 
 
 * The Darktrace ActiveAI Security Platform delivers a proactive approach to cyber resilience, providing preemptive visibility into security posture, real-time detection, and autonomous response to known and unknown threats, and correlating beyond boundaries — securing the business across cloud, email, identities, OT, endpoints and network.
 
