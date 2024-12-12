@@ -79,7 +79,7 @@ The company has raised $229.5 million in total known funding. That includes the 
 * Versatility Across Various Industries.
 * Scalability and Flexibility.
 
-#### Recent developments
+### Recent developments
 
 * Darktrace has recently announced that its Federal business has received a High Impact Level “In Process” designation from the Federal Risk and Authorization Management Program (FedRAMP), a U.S. government-wide program that provides a standardised approach to security assessment, authorisation, and continuous monitoring for cloud products and services. Darktrace Federal’s Cyber AI Mission Defense™ and Cyber AI Email Protection™ products are now listed in the FedRAMP Marketplace. This designation marks a critical milestone for Darktrace Federal as it seeks to deliver information technology (IT), operational technology (OT), Internet of Things (IoT), and email security to the U.S. federal government via cloud-native deployments, empowering agencies to combat threats ranging from stealthy insiders to zero-day attacks and supply chain compromises.
 
@@ -96,7 +96,7 @@ The company has raised $229.5 million in total known funding. That includes the 
 
 ## Recommendations
 
-### By diversifying into these areas, Darktrace can address emerging cybersecurity challenges and capitalize on growing market opportunities.
+### By diversifying into these areas, Darktrace can address emerging cybersecurity challenges and capitalize on growing market opportunities
 
 1. Extended Detection and Response (XDR):
 > Rationale: The XDR market is projected to grow from $1.7 billion in 2023 to $8.8 billion by 2028, at a CAGR of 38.4%, indicating a significant demand for integrated security solutions. 
@@ -105,25 +105,22 @@ The company has raised $229.5 million in total known funding. That includes the 
 3. Identity and Access Management (IAM):
 > Rationale: The IAM market is anticipated to reach $34.3 billion by 2029, growing at a CAGR of 8.4% from 2024, reflecting the rising importance of secure access controls.
 
-## Technologies utilized:
+## Technologies Utilized:
 
 1. Extended Detection and Response (XDR):
 
-* Technologies Utilized:
-Machine Learning and AI Algorithms: For intelligent detection, reducing false positives, and identifying advanced persistent threats that evade traditional defenses.
+* Machine Learning and AI Algorithms: For intelligent detection, reducing false positives, and identifying advanced persistent threats that evade traditional defenses.
 * Data Aggregation and Analytics: To collect and normalize data from various sources, providing a comprehensive view of potential threats.
 * Behavioral Analysis: To detect anomalies indicating malicious activity by continuously monitoring user and entity behavior.
 
 2. Cloud Security Posture Management (CSPM):
 
-* Technologies Utilized:
 * Cloud-Native AI: For real-time monitoring and assessment of cloud configurations against security benchmarks.
 * Policy Enforcement Engines: To automatically enforce compliance and remediate vulnerabilities.
 * Automation Tools: To streamline detection and correction of cloud security issues, reducing manual efforts.
 
 3. Identity and Access Management (IAM):
 
-* Technologies Utilized:
 * Blockchain Technology: For secure, tamper-proof storage of identity data and authentication mechanisms.
 * Biometric AI: For advanced authentication methods, such as facial recognition and fingerprint scanning.
 * Multi-Factor Authentication (MFA): To enhance access security through multiple verification layers.
