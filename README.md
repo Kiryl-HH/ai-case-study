@@ -8,7 +8,7 @@
 
 * Darktrace was founded in 2013 by Poppy Gustafsson, Dave Palmer, Emily Orton, Jack Stockdale and Nicole Eagan. The founders were leading a team of a world-class team of mathematicians from the University of Cambridge and AI experts, who were working on some ground-breaking applications of AI, experimenting with giving machines a sense of self.
 
-### Powered By Ground-Breaking Self-Learning AI, Darktrace Empowers Bespoke Security Unique To Each Customer Based On Continuous Visibility Into An Organization’s Entire Digital Ecosystem. 
+### Powered by ground-breaking Self-Learning AI, Darktrace empowers bespoke decurity unique to each customer based on continuous visibility into an organization’s entire digital ecosystem. 
 
 * The Darktrace ActiveAI Security Platform delivers a proactive approach to cyber resilience, providing preemptive visibility into security posture, real-time detection, and autonomous response to known and unknown threats, and correlating beyond boundaries — securing the business across cloud, email, identities, OT, endpoints and network.
 
@@ -27,12 +27,12 @@ The company has raised $229.5 million in total known funding. That includes the 
 
 * Darktrace currently serves more than 9,700 customers in over 110 countries, with more than 2,400 employees globally and 200 patent applications.
 
-### Benefits Compared To Competitors
+### Benefits compared to competitors
 > Autonomous Response is an integral piece of the Darktrace ActiveAI Security Platform. 
 
 > Real-time Autonomous Response stops unknown threats with surgical precision, keeping the business fully operational while buying your SOC valuable time.
 
-### They Currently Use The Following Technologies
+### They currently use the following technologies
 
 * Self-Learning AI.
 * Autonomous Response.
@@ -43,7 +43,7 @@ The company has raised $229.5 million in total known funding. That includes the 
 
 * Darktrace is a global leader in cybersecurity AI, delivering the essential cybersecurity platform to protect organizations today and for an ever-changing future.
 
-### Top Cybersecurity Trends
+### Top cybersecurity trends
 
 * Remote working cybersecurity risks.
 * The Internet of Things (IoT) evolving.
@@ -53,7 +53,7 @@ The company has raised $229.5 million in total known funding. That includes the 
 * Data privacy as a discipline.
 * Multi-factor authentication improving.
 
-### Other Major Companies In This Field
+### Other major companies in this field
 
 -   [IBM Security QRadar](https://www.ibm.com/ai-cybersecurity?utm_content=SRCWW&p1=Search&p4=43700074604519950&p5=p&p9=58700008209812898&gclsrc=aw.ds&gbraid=0AAAAAD-_QsTGH69GfCt9SHRoaCMkFGtHH&gclid=CjwKCAiAjeW6BhBAEiwAdKltMrLJd326CMvgwXf-Cm3JsLsUdCjMqCOlxn23YOB-EQJ0MHC0HT0fbhoCvlwQAvD_BwE)
 -  [ExtraHop](https://www.extrahop.com/platform/revealx?utm_source=Google&utm_medium=CPC&utm_campaign=TNT-BrandedSearch-ExactMatch-NA&cid=7016R000001hfpBQAQ&utm_term=extrahop&utm_source=Google&utm_medium=CPC&utm_campaign=TNT-BrandedSearch-ExactMatch-NA&utm_id=7016R000001hfpBQAQ&utm_term=extrahop&gad_source=1&gbraid=0AAAAADuVKgUD2gMTS30EV0jOiszmoXfrm&gclid=CjwKCAiAjeW6BhBAEiwAdKltMg8nEESLGcQKds8u1SRL8mHZ6waqBvuWSBF0qWKP32dtQKfp3O6WQhoCAXcQAvD_BwE)
@@ -72,25 +72,25 @@ The company has raised $229.5 million in total known funding. That includes the 
 
 ## Results
 
-### Darktrace Has A Big Impact On Cybersecurity Business:
+### Darktrace has a big impact on cybersecurity business:
 
 * Enhanced Cybersecurity Defense.
 * Cowering Cybersecurity Costs.
 * Versatility Across Various Industries.
 * Scalability and Flexibility.
 
-#### Recent Developments
+#### Recent developments
 
 * Darktrace has recently announced that its Federal business has received a High Impact Level “In Process” designation from the Federal Risk and Authorization Management Program (FedRAMP), a U.S. government-wide program that provides a standardised approach to security assessment, authorisation, and continuous monitoring for cloud products and services. Darktrace Federal’s Cyber AI Mission Defense™ and Cyber AI Email Protection™ products are now listed in the FedRAMP Marketplace. This designation marks a critical milestone for Darktrace Federal as it seeks to deliver information technology (IT), operational technology (OT), Internet of Things (IoT), and email security to the U.S. federal government via cloud-native deployments, empowering agencies to combat threats ranging from stealthy insiders to zero-day attacks and supply chain compromises.
 
-### Darktrace's Performance
+### Darktrace's performance
 
 * As of June 30, 2023, Darktrace reported an ARR of $626.6 million, reflecting a 29.6% year-over-year increase.
 * The company experienced an 18.3% year-over-year growth in its customer base, reaching 8,799 customers by the end of June 2023.
 * Darktrace reported a gross margin of 89.2% for the fiscal year ending June 30, 2023, indicating strong profitability.
 * Darktrace's Adjusted EBITDA Margin improved from 11.8% in FY 2021 to 25.5% in FY 2023, with a projected midpoint of 23.0% for FY 2024. This represents an 11.2 percentage point increase, reflecting significant operational efficiency and profitability growth as the company scales its AI-driven solutions.
 
-### Darktrace's Performance In Comparison To Competitors
+### Darktrace's performance in comparison to competitors
 
 ![alt text](https://i.postimg.cc/RVTvpT2k/temp-Image-Qty-R0f.avif)
 
